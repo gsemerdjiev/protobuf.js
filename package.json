@@ -1,5 +1,5 @@
 {
-  "name": "protobufjs-mod",
+  "name": "protobufjs",
   "version": "6.8.2",
   "versionScheme": "~",
   "description": "Protocol Buffers for JavaScript (& TypeScript).",

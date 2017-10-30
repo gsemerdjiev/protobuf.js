@@ -5,7 +5,7 @@
     "source": {
         "exclude": [],
         "includePattern": ".+\\.js(doc)?$",
-        "excludePattern": "(^|\\/|\\\\)"
+        "excludePattern": ""
     },
     "plugins": [
         "./tsd-jsdoc/plugin"
